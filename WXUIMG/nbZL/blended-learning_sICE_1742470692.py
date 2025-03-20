@@ -18,7 +18,6 @@ model_rf = Regressor(dataset=dataset, estimator=RandomForestRegressor, parameter
 model_lr = Regressor(dataset=dataset, estimator=LinearRegression, parameters={'normalize': True},name='lr')
 # Blending两个模型
 # Returns new dataset with out-of-fold predictions
-pipeline = ModelsPipeline(model_rf,model_lr)
 stack_ds = pipeline.blend(proportion=0.2,seed=111)
 #第二层使用lr模型stack
 stacker = Regressor(dataset=stack_ds, estimator=LinearRegression)
