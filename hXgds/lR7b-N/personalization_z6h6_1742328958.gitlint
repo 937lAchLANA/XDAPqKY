@@ -18,7 +18,6 @@ regex-style-search=true
 
 # Enable debug mode (prints more output). Disabled by default.
 debug=true
-
 # Enable community contributed rules
 # See http://jorisroovers.github.io/gitlint/contrib_rules for details
 contrib=contrib-title-conventional-commits
