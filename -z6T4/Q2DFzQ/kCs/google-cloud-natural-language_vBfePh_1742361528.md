@@ -3,7 +3,6 @@ import numpy as np
 
 docs = [["hello", "friend", "hello"], ["goodbye", "old", "friend"]]
 indptr = [0]
-indices = []
 data = []
 termos=[]
 vocabulary = {}
