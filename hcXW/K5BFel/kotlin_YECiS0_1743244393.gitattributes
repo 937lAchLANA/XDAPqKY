@@ -5,7 +5,6 @@
 * text=auto
 * eol=lf
 *.png binary
-*.jar binary
 compiler/cli/bin/* eol=lf
 compiler/cli/bin/*.bat eol=crlf
 gradlew.bat eol=crlf
