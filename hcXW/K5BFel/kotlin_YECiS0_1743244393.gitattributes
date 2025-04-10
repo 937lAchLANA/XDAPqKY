@@ -3,7 +3,6 @@
 *.kt.txt linguist-language=Kotlin
 *.klib_abi.txt linguist-language=Kotlin
 * text=auto
-* eol=lf
 *.png binary
 compiler/cli/bin/* eol=lf
 compiler/cli/bin/*.bat eol=crlf
