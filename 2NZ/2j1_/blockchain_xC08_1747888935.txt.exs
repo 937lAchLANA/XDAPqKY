@@ -218,7 +218,6 @@
           {Credo.Check.Warning.MapGetUnsafePass, []},
           {Credo.Check.Warning.MixEnv, []},
           {Credo.Check.Warning.UnsafeToAtom, []}
-
           # {Credo.Check.Refactor.MapInto, []},
 
           #
