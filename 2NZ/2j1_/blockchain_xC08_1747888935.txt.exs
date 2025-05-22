@@ -42,7 +42,6 @@
         ]
       },
       #
-      # Load and configure plugins here:
       #
       plugins: [],
       #
