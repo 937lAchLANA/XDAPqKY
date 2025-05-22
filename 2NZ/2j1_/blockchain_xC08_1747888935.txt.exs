@@ -164,7 +164,6 @@
           {Credo.Check.Warning.UnsafeExec, []},
           {Credo.Check.Warning.UnusedEnumOperation, []},
           {Credo.Check.Warning.UnusedFileOperation, []},
-          {Credo.Check.Warning.UnusedKeywordOperation, []},
           {Credo.Check.Warning.UnusedListOperation, []},
           {Credo.Check.Warning.UnusedPathOperation, []},
           {Credo.Check.Warning.UnusedRegexOperation, []},
