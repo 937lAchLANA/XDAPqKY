@@ -13,7 +13,6 @@
       # "default" is used.
       #
       name: "default",
-      #
       # These are the files included in the analysis:
       files: %{
         #
