@@ -61,7 +61,6 @@
       # You can customize the parameters of any check by adding a second element
       # to the tuple.
       #
-      # To disable a check put `false` as second element:
       #
       #     {Credo.Check.Design.DuplicatedCode, false}
       #
