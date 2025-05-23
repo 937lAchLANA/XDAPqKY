@@ -10,7 +10,6 @@
     %{
       #
       # Run any config using `mix credo -C <name>`. If no config name is given
-      # "default" is used.
       #
       name: "default",
       # These are the files included in the analysis:
