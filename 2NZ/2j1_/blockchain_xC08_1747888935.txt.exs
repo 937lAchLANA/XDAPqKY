@@ -1,6 +1,5 @@
 # This file contains the configuration for Credo and you are probably reading
 # this after creating it with `mix credo.gen.config`.
-# issue on GitHub: https://github.com/rrrene/credo/issues
 #
 %{
   #
