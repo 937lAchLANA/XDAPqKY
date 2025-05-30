@@ -295,7 +295,6 @@ prior to termination shall survive termination.
 *  limitation of liability shall not apply to liability for death or   *
 *  personal injury resulting from such party's negligence to the       *
 *  extent applicable law prohibits such limitation. Some               *
-*  jurisdictions do not allow the exclusion or limitation of           *
 *  incidental or consequential damages, so this exclusion and          *
 *  limitation may not apply to You.                                    *
 *                                                                      *
