@@ -1,4 +1,3 @@
-MIT License
 
 
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
