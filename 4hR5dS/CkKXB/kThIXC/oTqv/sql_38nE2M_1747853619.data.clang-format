@@ -1,6 +1,5 @@
 BasedOnStyle: WebKit
 Language: Cpp
-AlignAfterOpenBracket: AlwaysBreak
 BreakBeforeBraces: Custom
 BraceWrapping:
     AfterClass: true
